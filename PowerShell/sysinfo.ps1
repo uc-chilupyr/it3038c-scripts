@@ -15,4 +15,7 @@ Today's date is $Date"
 
 write-host($BODY)
 
-Send-MailMessage -To "yashuchilupuri@gmail.com" -From "yashchilupuri@gmail.com" -Subject "IT3038c windows SysInfo" -Body $BODY -SmtpServer smtp.google.com -port 587 -UseSSL -Credential (Get-Credential)
+Send-MailMessage -To "yashuchilupuri@gmail.com" 
+-From "yashchilupuri@gmail.com" 
+-Subject "IT3038c windows SysInfo" 
+-Body $BODY -SmtpServer smtp.google.com -port 587 -UseSSL -Credential (Get-Credential)
