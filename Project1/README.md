@@ -1,6 +1,6 @@
 # Project 1
 
-### Instruction to run this program 
+### Instructions to run this program 
 
 This program counts the occurance of a desired character in a user entered phrase or word.
 
