@@ -2,7 +2,7 @@
 
 ### Instructions to run this program 
 
-This program counts the occurance of a desired character in a user entered phrase or word.
+This program counts the occurrence of the desired character in a user-entered phrase or word.
 
 To run this program, make sure that Python3 is installed and working. You can validate this by running in your command prompt on Windows or Linux:
 
