@@ -25,9 +25,9 @@ python3 main.py
 Example Output: 
 ```bash
 $ python3 main.py
-Enter the string/phrase to count the characters: * Hello *
-Enter the character you want counted: * h *
-The number of times '** h **' occurs in 'Hello' is 
+Enter the string/phrase to count the characters: Hello
+Enter the character you want counted: h 
+The number of times 'h' occurs in 'Hello' is 
 1
 ```
 ### Error Handling
