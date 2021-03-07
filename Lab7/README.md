@@ -2,7 +2,7 @@
 
 Welcome
 
-Here is how you can run a Python script that I created, which uses a plugin/library called matplotlib which is a omprehensive library for creating static, animated, and interactive visualizations in Python.
+Here is how you can run a Python script that I created, which uses a plugin/library called matplotlib which is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 
 To show its application it is important to install it first, let's create a Virtual ENV called scripts so that it is easier to manage and find. You can name it whatever you find comforable.
 
