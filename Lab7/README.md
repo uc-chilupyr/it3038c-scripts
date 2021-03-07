@@ -12,7 +12,7 @@ source ~/venv/scripts/bin/activate
 python -m pip install -U pip
 python -m pip install -U matplotlib
 ```
-Now, Lets plot a simple graph using the script that have written to show the functionality of the matplotlib library.
+Now, Lets plot a simple graph using the script that I have written to show the functionality of the matplotlib library.
 Now, in Python, run the following code
 ```python
 import matplotlib
