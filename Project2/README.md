@@ -86,3 +86,5 @@ Enter the grades of the students: asd
 Please enter an integer value: 
 35
 ```
+
+Thank you for taking your time to go through my project.
