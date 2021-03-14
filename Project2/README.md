@@ -40,6 +40,8 @@ Do you want to continue entering grades? : No
 ```
 
 Example graph that will be plotted
+
+
 ![image](https://user-images.githubusercontent.com/77366582/111070336-b53cd600-84a7-11eb-8a9d-0dd842711208.png)
 
 
