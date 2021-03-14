@@ -24,6 +24,31 @@ Now, from the Project1 folder that contains main.py, run the program using Pytho
 python3 main.py
 ```
 
+Before running it is important to install the requried module so that a graph can be plotted.
+
+So to install type the following 
+```bash
+python -m pip install -U pip
+python -m pip install -U matplotlib
+```
+
+If python isn't install on your windows system you can type
+```bash
+D:\ python
+```
+to install it from mircrosoft store
+
+If you are on Linux, you might prefer to use your package manager. Matplotlib is packaged for almost every major Linux distribution.
+```bash
+
+    Debian / Ubuntu: sudo apt-get install python3-matplotlib
+    Fedora: sudo dnf install python3-matplotlib
+    Red Hat: sudo yum install python3-matplotlib
+    Arch: sudo pacman -S python-matplotlib
+
+```
+if you are using pycharm or any other IDE to test you can directly install it on the IDE
+
 Example Output: 
 ```bash
 $ python3 main.py
