@@ -27,13 +27,21 @@ python3 main.py
 Example Output: 
 ```bash
 $ python3 main.py
+Enter the grades of the students: 10
+Do you want to continue entering grades? : yes
+Enter the grades of the students: 20
+Do you want to continue entering grades? : yes
+Enter the grades of the students: 35
+Do you want to continue entering grades? : yes
+Enter the grades of the students: 55
+Do you want to continue entering grades? : yes
+Enter the grades of the students: 55
+Do you want to continue entering grades? : yes
 Enter the grades of the students: 100
 Do you want to continue entering grades? : yes
 Enter the grades of the students: 99
 Do you want to continue entering grades? : 88
-Enter the grades of the students: yes
-Please enter an integer value: 
-35
+Enter the grades of the students: 35
 Do you want to continue entering grades? : yes
 Enter the grades of the students: 50
 Do you want to continue entering grades? : No
@@ -47,8 +55,9 @@ Example graph that will be plotted
 
 ### Error Handling
 
-The program is intended to count single character occurences, so the program would reject multiple characters and prompt you to type a single character.
+The program is intended take in integer only. Any attempt to type any other data type is not taken
 ```bash
-Please enter only 1 character!!
-Please enter again:
+Enter the grades of the students: asd
+Please enter an integer value: 
+35
 ```
