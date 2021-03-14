@@ -1,4 +1,5 @@
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt # impoty this library to help with plotting graphs
+
 
 studentGrades = []  # array to store the student grades that are entered
 
