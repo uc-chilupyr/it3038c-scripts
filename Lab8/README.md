@@ -6,6 +6,10 @@ Here is how you can run a Python script that I created, which pulls data from a 
 
 Below is the ouput of the data that is collected by the script.
 
-https://imgur.com/w7vpx59
+
+
+    
+![alt text](https://imgur.com/w7vpx59 "Demo by Yashovar Chilupuri")
+
 
 Thank you for taking your time to look at my work.
