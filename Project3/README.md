@@ -22,7 +22,7 @@ Now, from the Project1 folder that contains main.py, run the program using Pytho
 python3 main.py
 ```
 
-Before running it is important to install the requried module for the API requests and for BeautifulSoup
+Before running it is important to install the requried module for the API requests and for BeautifulSoup which I used for the data.
 
 So to install type the following 
 ```bash
