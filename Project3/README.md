@@ -89,3 +89,7 @@ How much: 200
 
 Process finished with exit code 0
 ```
+
+Thank you taking the time to look at my work.
+
+I used https://fixer.io/documentation and https://discord.com/channels/@me/434789406918836224/834193124128456717 for reference in my project.
