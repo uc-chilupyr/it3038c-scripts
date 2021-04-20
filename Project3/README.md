@@ -40,12 +40,33 @@ if you are using pycharm or any other IDE to test you can directly install it on
 Example Output: 
 ```bash
 $ python3 main.py
-![image](https://user-images.githubusercontent.com/77366582/115471234-a44d5600-a205-11eb-8def-717424c67d49.png)
+What would you like to do? (Enter help to look at the coversion codes or Enter convert to using the conversion scale): 
+Enter the currency to be converted from:: USD
+Enter the currency to be converted to:: EUR
+How much: 200
+200 USD = 166.15 EUR
+
+Process finished with exit code 0
 
 There is a help table with the country codes and their names in the code. Just type 'HELP' to see it.
 Here is an example of that output.
 
-![image](https://user-images.githubusercontent.com/77366582/115471694-643aa300-a206-11eb-94ea-95102ce10f46.png)
+                                            Name Code
+0                    United Arab Emirates Dirham  AED
+1                            Afghanistan Afghani  AFN
+2                                    Albania Lek  ALL
+3                                   Armenia Dram  AMD
+4                   Netherlands Antilles Guilder  ANG
+..                                           ...  ...
+157  Comptoirs Français du Pacifique (CFP) Franc  XOF
+158                                   Yemen Rial  XPF
+159                            South Africa Rand  YER
+160                                Zambia Kwacha  ZAR
+161                              Zimbabwe Dollar  ZMW
+
+[162 rows x 2 columns]
+
+Process finished with exit code 0
 
 
 
