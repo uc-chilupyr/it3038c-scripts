@@ -40,35 +40,18 @@ if you are using pycharm or any other IDE to test you can directly install it on
 Example Output: 
 ```bash
 $ python3 main.py
-Enter the grades of the students: 10
-Do you want to continue entering grades? : yes
-Enter the grades of the students: 20
-Do you want to continue entering grades? : yes
-Enter the grades of the students: 35
-Do you want to continue entering grades? : yes
-Enter the grades of the students: 55
-Do you want to continue entering grades? : yes
-Enter the grades of the students: 55
-Do you want to continue entering grades? : yes
-Enter the grades of the students: 100
-Do you want to continue entering grades? : yes
-Enter the grades of the students: 99
-Do you want to continue entering grades? : 88
-Enter the grades of the students: 35
-Do you want to continue entering grades? : yes
-Enter the grades of the students: 50
-Do you want to continue entering grades? : No
-```
+![image](https://user-images.githubusercontent.com/77366582/115471234-a44d5600-a205-11eb-8def-717424c67d49.png)
 
-Example graph that will be plotted
+There is a help table with the country codes and their names in the code. Just type 'HELP' to see it.
+Here is an example of that output.
 
+![image](https://user-images.githubusercontent.com/77366582/115471694-643aa300-a206-11eb-94ea-95102ce10f46.png)
 
-![image](https://user-images.githubusercontent.com/77366582/111070336-b53cd600-84a7-11eb-8a9d-0dd842711208.png)
 
 
 ### Error Handling
 
-The program is intended take in integer only. Any attempt to type any other data type is not taken
+The program is inteneded to take valid currency codes as inputs for the currencies. Any attempt to type any other data type is not taken
 ```bash
 Enter the grades of the students: asd
 Please enter an integer value: 
