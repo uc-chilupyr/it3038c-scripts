@@ -1,4 +1,4 @@
-# Project 3
+# Project 3 - Currency Converter
 
 ### Instructions to run this program 
 
