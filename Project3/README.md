@@ -47,6 +47,7 @@ How much: 200
 200 USD = 166.15 EUR
 
 Process finished with exit code 0
+```
 
 There is a help table with the country codes and their names in the code. Just type 'HELP' to see it.
 Here is an example of that output.
